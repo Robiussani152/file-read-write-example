@@ -1,0 +1,7 @@
+Hi,
+
+This is users data which is coming from form.
+
+Username: ic_user_username
+Name: ic_user_name
+Email: ic_user_email
